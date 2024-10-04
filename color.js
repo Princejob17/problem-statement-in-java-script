@@ -15,7 +15,6 @@
     </style>
 </head>
 <body>
-    <p>coloration process</p>
 
     <button onclick="changeColor('red')">Red</button>
     <button onclick="changeColor('blue')">Blue</button>
